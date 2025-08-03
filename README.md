@@ -1,8 +1,8 @@
 # InvisiTech Labs
-## Revamped Onboarding Pipeline (WIP)
+## Revamped Onboarding Pipeline (Archive)
 
-This is the current onboarding document.
-However, may become obsolete anytime.
-Most new hires have moved to the **main onboarding repo**.  
 
-> **Note**: This repo is kept only for reference purposes.
+This repo was part of early onboarding documentation.
+
+> ⚠️ This content may be outdated. Refer to the main onboarding repo for updated docs.
+
