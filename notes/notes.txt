@@ -1,2 +1,0 @@
-Legacy notes from early pipeline setup.
-Might not be relevant anymore.
